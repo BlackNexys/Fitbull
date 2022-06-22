@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="311.5" height="33" version="1.1" viewBox="0 0 84.253 8.7656" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(0,-288.26)">
+<text transform="scale(1.0073 .99274)" x="0.0027175376" y="298.60007" fill="#fff" font-family="Merriweather" font-size="10.661px" letter-spacing="0px" stroke-width=".26652" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve">			 <tspan x="0.0027175376" y="298.60007" dx="0 0 0 0.65335977" font-family="Merriweather" font-size="10.661px" stroke-width=".26652" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">S</tspan>		</text>
+<text transform="scale(1.0073 .99274)" x="12.80926" y="298.60007" fill="#fff" font-family="Merriweather" font-size="10.661px" letter-spacing="0px" stroke-width=".26652" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve">			 <tspan x="12.80926" y="298.60007" dx="0 0 0 0.65335977" font-family="Merriweather" font-size="10.661px" stroke-width=".26652" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">EETSFINDER</tspan>		</text>
+<g transform="matrix(.32965 0 0 .34695 5.5449 286.93)" stroke="currentColor">
+	<path d="m3.433 7.86s1.0857 0.12015 1.1744 0.94943c0.088657 0.82927-0.37493 1.2069-0.63782 1.3703-0.46359 0.28822-1.3532 0.28453-1.9458-0.33147-0.78793-0.81906-0.54257-2.101-0.30323-2.7119 0.25197-0.64311 0.6884-1.2064 1.7048-1.6721 0.99197-0.45448 15.635-0.00541 15.635-0.00541s1.8636 0.12728 1.8636 1.7111c0.16768 4.5216-0.01008 9.625 0.0064 15.172 0.91947 0.90077 0.96034 0.92101 1.2656 1.5944 0.39598 0.87352 0.31274 1.5421-0.09482 2.1591-0.4916 0.81306-1.2026 1.0524-1.8232 1.1138-0.6206 0.06142-12.028 0-12.028 0s-1.159 0.12791-2.0099-1.2438c-0.68265-1.1004-0.35474-3.6161-0.35474-4.5068s0.22091-11.07 0.22091-11.07 0.184-2.3196-0.39626-3.3432c-0.46821-0.85556-1.6966-1.5866-1.6966-1.5866" fill="none"  stroke-linecap="round" stroke-width="1.0756px"/>
+	<path d="m9.4396 24.031c-0.19607 0.84032-0.98037 0.98037-0.98037 0.98037s-0.82024 0.06598-1.0364-0.7843c-0.21776-0.85657 0.16806-1.2885 1.0084-1.6246 0.64424-0.16806 1.4285-0.05602 1.9047 0.14005 0.64095 0.26528 0.83621 0.84716 1.0084 1.2325 0.18655 0.41747-0.05602 1.4285-0.42016 1.7927-0.46494 0.51412-1.0186 0.87948-1.5406 1.0924-0.45653 0.18625-1.1335 0.35004-1.1335 0.35004" fill="none"  stroke-linecap="round" stroke-width="1px"/>
+	<path d="m9.8877 22.574h11.288" fill="none" stroke-linecap="round" stroke-width="1px"/>
+	<path d="m3.6134 10.389h2.4929" fill="none"  stroke-linecap="round" stroke-width="1px"/>
+	<path d="m14.566 8.4142h4.5105" fill="none"  stroke-linecap="round" stroke-width=".92796px"/>
+	<path d="m14.566 9.9845h4.7049" fill="none"  stroke-linecap="round" stroke-width="1.041px"/>
+	<path d="m14.566 11.413h4.9299" fill="none"  stroke-linecap="round" stroke-width="1px"/>
+	<path d="m14.369 15.193h5.0979l0.02801 4.7338h-5.21z" fill="none"  stroke-linecap="round" stroke-linejoin="round" stroke-width="1px" style="paint-order:stroke fill markers"/>
+	<path d="m15.686 16.902c2.4649-0.05602 2.4929-0.02801 2.4929-0.02801" fill="none"  stroke-linecap="round" stroke-width="1px"/>
+	<path d="m15.602 18.358c2.3529-0.11204 2.3529-0.08403 2.3529-0.08403" fill="none"  stroke-linecap="round" stroke-width="1px"/>
+	<path d="m7.7589 8.3167h5.0979l0.02801 4.7338h-5.21z" fill="none"  stroke-linecap="round" stroke-linejoin="round" stroke-width="1px" style="paint-order:stroke fill markers"/>
+	<path d="m7.4226 15.137h5.4381l0.02988 1.8883h-5.5577z" fill="none"  stroke-linecap="round" stroke-linejoin="round" stroke-width=".65231px" style="paint-order:stroke fill markers"/>
+	<path d="m7.3038 18.3h5.4328l0.02985 1.9853h-5.5522z" fill="none"  stroke-linecap="round" stroke-linejoin="round" stroke-width=".66853px" style="paint-order:stroke fill markers"/>
+	<g transform="matrix(1.197,0,0,1.2369,-2.1345,-1.0453)">
+		<ellipse cx="10.399" cy="9.2706" rx="1.227" ry=".85284" fill="currentColor"  stroke-linecap="round" stroke-linejoin="round" stroke-width=".4" style="paint-order:stroke fill markers"/>
+		<ellipse cx="9.6307" cy="9.4315" rx=".349" ry=".35704" fill="#fff"  stroke-linecap="round" stroke-linejoin="round" stroke-width=".58703" style="paint-order:stroke fill markers"/>
+		<ellipse cx="11.143" cy="9.4235" rx=".36564" ry=".39782" fill="#fff"  stroke-linecap="round" stroke-linejoin="round" stroke-width=".60202" style="paint-order:stroke fill markers"/>
+		<path d="m10.337 9.3857 0.12011-0.010514 0.18247 0.30912-0.05543 0.05888-0.37418 0.00211-0.05313-0.092526z" fill="#fff" stroke-width="0" style="paint-order:stroke fill markers"/>
+		<path d="m9.8318 10.011c-0.072168 0.0882-0.049225 0.18624-0.16896 0.40228-0.026163 0.04721 0.32987 0.31378 0.38619 0.31378s0.67584 0.01609 0.67584 0.01609l0.34596-0.28964-0.14482-0.36206z" fill="none"  stroke-linejoin="round" stroke-width=".3"/>
+		<path d="m10.009 10.574 0.09655-0.16896 0.07241 0.28964z" fill="currentColor" stroke-width="0"/>
+	</g>
+</g>
+</g>
+</svg>
