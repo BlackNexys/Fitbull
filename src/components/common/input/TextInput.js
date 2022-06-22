@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import classnames from 'classnames';
 import { createUseStyles } from 'react-jss';
 import Error from '../svgs/error.svg';
-import Tooltip from 'common/tooltip/Tooltip';
+import Tooltip from '../tooltip/Tooltip';
 
 const useStyles = createUseStyles((theme) => ({
 	root: {

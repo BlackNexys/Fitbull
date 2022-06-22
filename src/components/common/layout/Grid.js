@@ -1,7 +1,7 @@
 import React from 'react';
 import classnames from 'classnames';
 import { createUseStyles } from 'react-jss';
-import Griditem from 'common/layout/Griditem';
+import Griditem from '../layout/Griditem';
 import PropTypes from 'prop-types';
 
 const useStyles = createUseStyles(() => ({

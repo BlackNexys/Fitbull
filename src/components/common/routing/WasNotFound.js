@@ -1,6 +1,6 @@
 import React from 'react';
-import Screen from 'common/screen/Screen';
-import Paper from 'common/screen/Paper';
+import Screen from '../screen/Screen';
+import Paper from '../screen/Paper';
 import { useTranslation } from 'react-i18next';
 
 const WasNotFound = () => {

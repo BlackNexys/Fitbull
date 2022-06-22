@@ -2,7 +2,7 @@ import React, { useState, useRef } from 'react';
 import PropTypes from 'prop-types';
 import classnames from 'classnames';
 import { createUseStyles } from 'react-jss';
-import ChevronDown from 'common/svgs/ChevronDown.svg';
+import ChevronDown from '../svgs/ChevronDown.svg';
 import SelectOption from './SelectOption';
 
 const useStyles = createUseStyles((theme) => ({

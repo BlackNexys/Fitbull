@@ -2,7 +2,7 @@ import React from 'react';
 import classnames from 'classnames';
 import PropTypes from 'prop-types';
 import { createUseStyles } from 'react-jss';
-import Header from 'common/screen/Header';
+import Header from '../screen/Header';
 
 const useStyles = createUseStyles(() => ({
 	root: {

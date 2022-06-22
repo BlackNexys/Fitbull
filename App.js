@@ -1,20 +1,32 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import Bootstraph from './src/components/core/Bootstraph';
+import Layout from './src/components/core/Layout';
+import { createUseStyles } from 'react-jss';
 
 export default function App() {
+  const classes = useStyles();
   return (
-    <View style={styles.container}>
-      <Text>And we're live!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <Bootstraph className={classes.container}>
+      <Layout />
+    </Bootstraph>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
+const useStyles = createUseStyles({
+  '@global': {
+		'p, h1, h2, h3, h4, h5': {
+			'margin': '0px'
+		},
+		'h1, h2, h3, h4, h5': {
+			'font-family': 'Merriweather'
+		},
+		a: {
+			'text-decoration': 'none'
+		},
+		'body': {
+			'background': '#ddd',
+			'min-height': '100vh',
+			'margin': '0px',
+			'font-family': 'Ubuntu'
+		}
+	}
 });

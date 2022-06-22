@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import classnames from 'classnames';
 import { createUseStyles } from 'react-jss';
-import Close from 'common/svgs/Close.svg';
+import Close from '../svgs/Close.svg';
 
 const useStyles = createUseStyles((theme) => ({
 	'root': {

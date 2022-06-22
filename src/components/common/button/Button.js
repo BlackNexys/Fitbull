@@ -1,7 +1,5 @@
-import PropTypes from 'prop-types';
-import classnames from 'classnames';
 import { createUseStyles } from 'react-jss';
-import Ripples from 'react-ripples';
+import classnames from 'classnames';
 
 const useStyles = createUseStyles((theme) => ({
 	'root': {
@@ -17,6 +15,10 @@ const useStyles = createUseStyles((theme) => ({
   		'transition': 'all .225s cubic-bezier(.25,.8,.25,1)',
 		'overflow': 'hidden',
 		'font-size': '14px'
+	},
+	'value': {
+		'display': 'flex',
+		'align-items': 'center',
 	},
 	'icon': {
 		'font-size': '18px'
@@ -86,22 +88,13 @@ const Button = ({ className, variant = 'contained', color = 'primary', value, ic
 	const Icon = icon;
 	const displacement = Icon ? classes.valuedisplacement : null;
 	const Component = component;
-	return (
-		<Ripples>
-			<Component className={classnames(classes.root, classes[variant], classes[type], className)} {...props}>
-				{ Icon && <Icon className={classes.icon} /> }
-				<span className={displacement}>{ value }</span>
-			</Component>
-		</Ripples>
-	);
-};
 
-Button.propTypes = {
-	className: PropTypes.string,
-	variant: PropTypes.string,
-	color: PropTypes.string,
-	value: PropTypes.string.isRequired,
-	icon: PropTypes.func
+	return (
+		<Component className={classnames(classes.root, classes[variant], classes[type], className)} {...props}>
+			{ Icon && <Icon className={classes.icon} /> }
+			<span className={classnames(displacement, classes.value)}>{ value }</span>
+		</Component>
+	);
 };
 
 export default Button;
