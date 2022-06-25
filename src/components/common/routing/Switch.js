@@ -1,20 +1,23 @@
 import React from 'react';
-import { Routes as RouterSwitch, Route } from 'react-router-dom';
+import {
+	Routes,
+	Route
+  } from "react-router-dom";
 import PropTypes from 'prop-types';
 import WasNotFound from './WasNotFound';
 
-const Switch = ({ children, fallback }) => {
+const CustomSwitch = ({ children, fallback }) => {
 	return (
-		<RouterSwitch>
+		<Routes>
 			{ children }
-			<Route component={fallback ? fallback : WasNotFound} />
-		</RouterSwitch>
+			<Route element={fallback ? fallback : <WasNotFound />} />
+		</Routes>
 	);
 };
 
-Switch.propTypes = {
+CustomSwitch.propTypes = {
 	children: PropTypes.node,
 	fallback: PropTypes.elementType
 };
 
-export default Switch;
+export default CustomSwitch;

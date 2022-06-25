@@ -37,14 +37,14 @@ const useStyles = createUseStyles((theme) => ({
 	},
 	'primarycontained': {
 		'background': theme.palette.primary.main,
-		'color': theme.palette.common.white,
+		'color': theme.palette.common.black,
 		'&:hover': {
 			'background': theme.palette.primary.light
 		}
 	},
 	'secondarycontained': {
 		'background': theme.palette.secondary.main,
-		'color': theme.palette.common.white,
+		'color': theme.palette.common.black,
 		'&:hover': {
 			'background': theme.palette.secondary.light
 		}

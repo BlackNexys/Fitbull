@@ -26,7 +26,7 @@ const useStyles = createUseStyles((theme) => ({
 	},
 	main: {
 		'grid-area': 'main',
-		'padding': '1rem .5rem',
+		'padding': '1rem .5rem 3rem',
 		'display': 'flex',
 		'justify-content': 'center'
 	}

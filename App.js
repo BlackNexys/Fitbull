@@ -23,10 +23,11 @@ const useStyles = createUseStyles({
 			'text-decoration': 'none'
 		},
 		'body': {
-			'background': '#ddd',
+			'background': '#1f1f1f',
+			'color': '#FFFFFF',
 			'min-height': '100vh',
 			'margin': '0px',
-			'font-family': 'Ubuntu'
+			'font-family': "'Jockey One', sans-serif"
 		}
 	}
 });

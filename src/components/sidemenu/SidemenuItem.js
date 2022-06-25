@@ -10,7 +10,7 @@ const useStyles = createUseStyles((theme) => ({
 		'align-items': 'center',
 		'color': theme.palette.common.white,
 		'height': '46px',
-		'padding': '0px 1rem 0px .5rem',
+		'padding': '0px 2rem 0px 1rem',
 		'grid-template-columns': '46px 1fr',
 		'background': theme.palette.primary.dark,
 		'transition': 'all 0.255s ease',
@@ -28,6 +28,7 @@ const useStyles = createUseStyles((theme) => ({
 	text: {
 		'overflow': 'hidden',
 		'white-space': 'nowrap',
+		'font-size': '2rem',
 		'transition': 'all 0.255s ease'
 	}
 }));

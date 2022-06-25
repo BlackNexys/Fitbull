@@ -37,26 +37,19 @@ const mediabp = {
 const theme = {
 	palette: {
 		primary: {
-			main: '#3300cc',
-			dark: '#281c4a',
-			light: '#4000ff'
+			main: '#FFD700',
+			dark: '#807226',
+			light: '#FFE44D'
 		},
 		secondary: {
-			main: '#0088cc',
-			dark: '#1c3b4a',
-			light: '#00aaff'
+			main: '#D3D3D3',
+			dark: '#545454',
+			light: '#E0E0E0'
 		},
 		error: {
 			main: '#cc0033',
 			dark: '#4a1c28',
 			light: '#ff0040'
-		},
-		system: {
-			pathfinder: {
-				main: '#b3a400',
-				dark: '#4a461c',
-				light: '#ffea00'
-			}
 		},
 		common: {
 			dark: {

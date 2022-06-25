@@ -6,13 +6,13 @@ const useStyles = createUseStyles((theme) => ({
     root: {}
 }));
 
-const Home = ({ className }) => {
+const Schedule = ({ className }) => {
 	const classes = useStyles();
 	return (
 		<div className={classnames(classes.root, className)}>
-			Home page
+			Schedule
 		</div>
 	);
 };
 
-export default Home;
+export default Schedule;
